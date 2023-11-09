@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VjayMarupakas
-- 👀 I’m interested in ... coding 
-- 🌱 I’m currently learning ... java
-- 💞️ I’m looking to collaborate on ... python 
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on python 
 - 📫 How to reach me ... vj3874@gmail.com
 
 <!---
